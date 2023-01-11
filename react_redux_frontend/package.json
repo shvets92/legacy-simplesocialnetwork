@@ -9,7 +9,7 @@
     "buffer": "^5.2.1",
     "csprng": "^0.1.2",
     "jquery": "^3.4.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "material-kit": "^2.0.4",
     "material-kit-react": "^1.7.0",
     "nan": "^2.14.0",
